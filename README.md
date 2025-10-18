@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Master's student in Computer Science at Chalmers University of Technology, specializing in algorithms, languages, and logic. With a background in automation and mechatronics engineering, I have experience developing innovative solutions in machine learning, computer vision, and intelligent automation. My projects include improving a system using low-latency vision pipelines for controlling autonomous robots at Volvo Group, and building an electric car charging optimization service using predictive modeling.
+I am a Master's student in Computer Science at Chalmers University of Technology, specializing in algorithms, languages, and logic. With a background in automation and mechatronics engineering, I have experience developing innovative solutions in machine learning, computer vision, and intelligent automation. My projects include optimizing a low-latency vision pipeline for autonomous robot control at Volvo Group and developing an electric vehicle charging optimization service using predictive modeling.
 
 I am proficient in Python, Java, and algorithm design, with additional expertise in Git, CAD, and web development.
 
